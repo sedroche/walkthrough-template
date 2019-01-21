@@ -26,3 +26,5 @@ Test change
 . First step
 . Second step
 . Third step
+[type=verificationFail]
+Try turning it off and on again.
