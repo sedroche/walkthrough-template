@@ -14,4 +14,6 @@ Test change
 
 === Step
 
-// Add steps to your task
+. First step
+. Second step
+. Third step
