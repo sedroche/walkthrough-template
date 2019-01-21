@@ -27,5 +27,8 @@ Test change
 . Second step
 . Third step
 
+[type=verification]
+Check that the dashboard of service X reports no errors.
+
 [type=verificationFail]
 Try turning it off and on again.
