@@ -26,11 +26,10 @@ Test change
 . First step
 . Second step
 . Third step
+. Click on link:\{ openshift-url }[Openshift Dashboard]
 
 [type=verification]
 Check that the dashboard of service X reports no errors.
 
 [type=verificationFail]
 Try turning it off and on again.
-
-. Click on link:\{ openshift-url }[Openshift Dashboard]
