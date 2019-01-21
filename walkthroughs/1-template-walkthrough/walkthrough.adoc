@@ -1,6 +1,10 @@
 = My first Walkthrough
 
-// This is a template meant to be used as a starting point for walkthrough development
+[type=walkthroughResource]
+.My resource
+****
+* link:https://google.com[Helpful link, window="_blank"]
+****
 
 [time=5]
 == My first task
