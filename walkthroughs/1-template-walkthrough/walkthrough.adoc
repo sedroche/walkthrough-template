@@ -26,7 +26,7 @@ Test change
 . First step
 . Second step
 . Third step
-. Click on link:{ openshift-url }[Openshift Dashboard]
+. Click on link:{openshift-url}[Openshift Dashboard]
 
 OpenShift App Host: {openshift-app-host}
 
