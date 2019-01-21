@@ -11,6 +11,11 @@
 
 Test change
 
+[type=taskResource]
+.Useful links
+****
+* link:https://google.com[Task related link]
+****
 [time=10]
 == My second task
 
